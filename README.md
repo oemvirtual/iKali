@@ -5,19 +5,24 @@ Script installer for useful tools in kali
 
 
 ### Future changes:
-1. Add auto installer for the common tools
-    - [ ] Toolbox
-         1. Nmap + zenmap
-         2. Ghidra
-         3. Burpsuite
-         4. ZAP
-         5. xsser
-         6. Maltego
-         7. King Phisher
-         8. vscode
-         9. timeshift
-        10. snap
-        11. docker
-        12. bitwarden
-        13. nordvpn
-        14. metasploit
+- [ ] Add auto installer for Toolbox
+    - Essential tools
+        - Nmap + zenmap
+        - Ghidra
+        - Burpsuite
+        - ZAP
+        - xsser
+        - Maltego
+        - King Phisher
+        - vscode
+        - timeshift
+        - snap
+        - docker
+        - bitwarden
+        - nordvpn
+        - metasploit
+    - Utilities
+        - htop
+        - gotop
+        - neofetch
+        - lolcat
