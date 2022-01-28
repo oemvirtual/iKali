@@ -4,9 +4,9 @@ Script installer for useful tools in kali
 1. Running "./project-templates.sh" will create the template folder's in the current user's home directory
 
 
-Future changes:
+### Future changes:
 1. Add auto installer for the common tools
-    Toolbox
+    - [ ] Toolbox
          1. Nmap + zenmap
          2. Ghidra
          3. Burpsuite
